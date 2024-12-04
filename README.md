@@ -9,3 +9,6 @@ This repo contains a series of beginner friendly Machine Learning Projects to gr
 
 ### 03. Student Pass or Fail the exam using Decision Trees
  Simple Machine Learing Project to familiarize the concept of Decision Trees - Classification
+
+### 04. Model Accuracy Evaluation - Heart Attack Analysis & Prediction
+ Simple Machine Learing Project to familiarize the concept of  Evaluating Model Accuracy 
